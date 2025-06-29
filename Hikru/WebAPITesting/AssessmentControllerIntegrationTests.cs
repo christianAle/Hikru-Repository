@@ -20,7 +20,6 @@ namespace HikruCodeChallenge.WebAPITesting
         {
             _factory = new WebApplicationFactory<Program>();
             _client = _factory.CreateClient();
-            // Si tu API requiere API Key:
             //_client.DefaultRequestHeaders.Add("X-API-Key", "hikru-api-key-2025");
         }
 
@@ -57,7 +56,6 @@ namespace HikruCodeChallenge.WebAPITesting
         [Test]
         public async Task Get_ById_ReturnsAssessment()
         {
-            // Primero crea un assessment
             var dto = new CreateAssessmentDto
             {
                 Title = "Consulta",
@@ -83,7 +81,6 @@ namespace HikruCodeChallenge.WebAPITesting
         [Test]
         public async Task Put_UpdateAssessment_ReturnsNoContent()
         {
-            // Crea un assessment
             var dto = new CreateAssessmentDto
             {
                 Title = "Actualizar",
@@ -98,7 +95,6 @@ namespace HikruCodeChallenge.WebAPITesting
             var postResponse = await _client.PostAsJsonAsync("/api/assessments", dto);
             var created = await postResponse.Content.ReadFromJsonAsync<AssessmentDto>();
 
-            // Actualiza el assessment
             var updateDto = new UpdateAssessmentDto
             {
                 Title = "Actualizado",
@@ -119,7 +115,6 @@ namespace HikruCodeChallenge.WebAPITesting
         [Test]
         public async Task Delete_Assessment_ReturnsNoContent()
         {
-            // Crea un assessment
             var dto = new CreateAssessmentDto
             {
                 Title = "Eliminar",
@@ -134,7 +129,6 @@ namespace HikruCodeChallenge.WebAPITesting
             var postResponse = await _client.PostAsJsonAsync("/api/assessments", dto);
             var created = await postResponse.Content.ReadFromJsonAsync<AssessmentDto>();
 
-            // Elimina el assessment
             var deleteResponse = await _client.DeleteAsync($"/api/assessments/{created.Id}");
 
             Assert.AreEqual(HttpStatusCode.NoContent, deleteResponse.StatusCode);

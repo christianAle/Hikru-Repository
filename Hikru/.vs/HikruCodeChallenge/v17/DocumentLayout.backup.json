@@ -1,100 +1,96 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\",
+  "WorkspaceRootPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\webapitesting\\assessmentcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\webapitesting\\assessmentcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|solutionrelative:webapitesting\\assessmentcontrollerintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\webapitesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|solutionrelative:webapitesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\webapitesting\\webapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\webapitesting\\webapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{23D5AB52-950F-4A29-B9EE-802C46D49A31}|WebAPITesting\\WebAPITesting.csproj|solutionrelative:webapitesting\\webapitesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\controllers\\assessmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\dtos\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\dtos\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\dtos\\assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\queries\\getassessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\queries\\getassessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\queries\\getassessmentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\XPC\\AppData\\Local\\Temp\\tmp5582.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C60BA17-4E13-4E2F-BF5A-F3B514C16EB7}|Tests\\Tests.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\tests\\querytest\\getassessmentbyidquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C60BA17-4E13-4E2F-BF5A-F3B514C16EB7}|Tests\\Tests.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\tests\\querytest\\getassessmentbyidquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C60BA17-4E13-4E2F-BF5A-F3B514C16EB7}|Tests\\Tests.csproj|solutionrelative:tests\\querytest\\getassessmentbyidquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\infrastructure\\repositories\\assessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\infrastructure\\repositories\\assessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\infrastructure\\repositories\\assessmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\commands\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\commands\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\commands\\assessmentcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\mappings\\assessmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\mappings\\assessmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\mappings\\assessmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\middleware\\apikeymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\validators\\assessmentvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\validators\\assessmentvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\validators\\assessmentvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\application\\mappings\\mapperbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\application\\mappings\\mapperbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\application\\mappings\\mapperbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\domain\\entities\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\domain\\entities\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\domain\\entities\\assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru\\hikru\\domain\\enums\\assessmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|c:\\users\\xpc\\onedrive\\documentos\\hikru-repository\\hikru\\hikru\\domain\\enums\\assessmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26726861-BB12-4AC4-8566-FEFE7D7A424B}|Hikru\\HikruCodeChallenge.csproj|solutionrelative:hikru\\domain\\enums\\assessmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -105,15 +101,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebAPITesting.csproj",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
               "RelativeDocumentMoniker": "WebAPITesting\\WebAPITesting.csproj",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
               "RelativeToolTip": "WebAPITesting\\WebAPITesting.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -123,9 +119,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AssessmentControllerIntegrationTests.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\AssessmentControllerIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\AssessmentControllerIntegrationTests.cs",
               "RelativeDocumentMoniker": "WebAPITesting\\AssessmentControllerIntegrationTests.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\AssessmentControllerIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\AssessmentControllerIntegrationTests.cs",
               "RelativeToolTip": "WebAPITesting\\AssessmentControllerIntegrationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,23 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "WebAPITesting\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\UnitTest1.cs",
-              "RelativeToolTip": "WebAPITesting\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T04:12:44.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
               "RelativeToolTip": "Hikru\\Middleware\\ErrorHandlingMiddleware.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\Services\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Infrastructure\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Hikru\\Infrastructure\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Infrastructure\\Services\\AuthService.cs",
               "RelativeToolTip": "Hikru\\Infrastructure\\Services\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AssessmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AssessmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\AssessmentsController.cs",
               "RelativeDocumentMoniker": "Hikru\\Controllers\\AssessmentsController.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AssessmentsController.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\AssessmentsController.cs",
               "RelativeToolTip": "Hikru\\Controllers\\AssessmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\README.md",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\README.md",
               "RelativeDocumentMoniker": "Hikru\\README.md",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\README.md",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\README.md",
               "RelativeToolTip": "Hikru\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
@@ -194,11 +178,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Program.cs",
               "RelativeDocumentMoniker": "Hikru\\Program.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Program.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Program.cs",
               "RelativeToolTip": "Hikru\\Program.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAAwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +190,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "GetAssessmentByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
               "RelativeToolTip": "Hikru\\Application\\Queries\\GetAssessmentByIdQuery.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Hikru\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Hikru\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AssessmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\DTOs\\AssessmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\DTOs\\AssessmentDto.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\DTOs\\AssessmentDto.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\DTOs\\AssessmentDto.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\DTOs\\AssessmentDto.cs",
               "RelativeToolTip": "Hikru\\Application\\DTOs\\AssessmentDto.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAcwEEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,22 +226,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "tmp5582.tmp.cs",
               "DocumentMoniker": "C:\\Users\\XPC\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
               "ToolTip": "C:\\Users\\XPC\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmp5582.tmp.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T03:28:50.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "GetAssessmentByIdQueryTest.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
               "RelativeDocumentMoniker": "Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
               "RelativeToolTip": "Tests\\QueryTest\\GetAssessmentByIdQueryTest.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIBZwCYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -265,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\appsettings.json",
               "RelativeDocumentMoniker": "Hikru\\appsettings.json",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\appsettings.json",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\appsettings.json",
               "RelativeToolTip": "Hikru\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -277,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Hikru\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Hikru\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +273,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "AssessmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
               "RelativeDocumentMoniker": "Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
               "RelativeToolTip": "Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -301,11 +285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "AssessmentCreateCommand.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
               "RelativeToolTip": "Hikru\\Application\\Commands\\AssessmentCreateCommand.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,11 +297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "AssessmentValidators.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Validators\\AssessmentValidators.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Validators\\AssessmentValidators.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\Validators\\AssessmentValidators.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Validators\\AssessmentValidators.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Validators\\AssessmentValidators.cs",
               "RelativeToolTip": "Hikru\\Application\\Validators\\AssessmentValidators.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AssessmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Mappings\\AssessmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Mappings\\AssessmentProfile.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\Mappings\\AssessmentProfile.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Mappings\\AssessmentProfile.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Mappings\\AssessmentProfile.cs",
               "RelativeToolTip": "Hikru\\Application\\Mappings\\AssessmentProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,11 +321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ApiKeyMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Middleware\\ApiKeyMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeDocumentMoniker": "Hikru\\Middleware\\ApiKeyMiddleware.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Middleware\\ApiKeyMiddleware.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Middleware\\ApiKeyMiddleware.cs",
               "RelativeToolTip": "Hikru\\Middleware\\ApiKeyMiddleware.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,11 +333,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Hikru\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\appsettings.Development.json",
               "RelativeToolTip": "Hikru\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -361,11 +345,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "MapperBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Mappings\\MapperBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Mappings\\MapperBuilder.cs",
               "RelativeDocumentMoniker": "Hikru\\Application\\Mappings\\MapperBuilder.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Application\\Mappings\\MapperBuilder.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Application\\Mappings\\MapperBuilder.cs",
               "RelativeToolTip": "Hikru\\Application\\Mappings\\MapperBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,11 +357,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Assessment.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Domain\\Entities\\Assessment.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Domain\\Entities\\Assessment.cs",
               "RelativeDocumentMoniker": "Hikru\\Domain\\Entities\\Assessment.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Domain\\Entities\\Assessment.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Domain\\Entities\\Assessment.cs",
               "RelativeToolTip": "Hikru\\Domain\\Entities\\Assessment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -385,11 +369,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "AssessmentStatus.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Domain\\Enums\\AssessmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Domain\\Enums\\AssessmentStatus.cs",
               "RelativeDocumentMoniker": "Hikru\\Domain\\Enums\\AssessmentStatus.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Domain\\Enums\\AssessmentStatus.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\Domain\\Enums\\AssessmentStatus.cs",
               "RelativeToolTip": "Hikru\\Domain\\Enums\\AssessmentStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

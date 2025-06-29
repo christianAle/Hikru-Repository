@@ -20,7 +20,7 @@ namespace Tests.CommandTest
     {
         private Mock<IAssessmentRepository> _repositoryMock;
         private GetAssessmentByIdHandler _handler;
-        private IFixture _fixture; // Fixed type declaration for '_fixture'
+        private IFixture _fixture; 
 
         [SetUp]
         public void SetUp()
