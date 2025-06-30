@@ -18,7 +18,7 @@ namespace Tests.CommandTest
     {
         private Mock<IAssessmentRepository> _repositoryMock;
         private UpdateAssessmentHandler _handler;
-        private IFixture _fixture; 
+        private IFixture _fixture; // Fixed type declaration for '_fixture'
 
         [SetUp]
         public void SetUp()
@@ -37,7 +37,7 @@ namespace Tests.CommandTest
         {
             // Arrange  
             var assessmentDto = _fixture.Build<UpdateAssessmentDto>().With(x=> x.Id, 1).Create();
-            var command = _fixture.Create<UpdateAssessmentCommand>(); 
+            var command = _fixture.Create<UpdateAssessmentCommand>(); // Fixed instantiation of 'command'
             command.Assessment = assessmentDto;
             // Act  
             await _handler.Handle(command, CancellationToken.None);

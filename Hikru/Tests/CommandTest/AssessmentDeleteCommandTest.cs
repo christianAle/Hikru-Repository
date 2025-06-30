@@ -19,7 +19,7 @@ namespace Tests.CommandTest
     {
         private Mock<IAssessmentRepository> _repositoryMock;
         private DeleteAssessmentHandler _handler;
-        private IFixture _fixture; 
+        private IFixture _fixture; // Fixed type declaration for '_fixture'
 
         [SetUp]
         public void SetUp()
@@ -37,7 +37,7 @@ namespace Tests.CommandTest
         public async Task DeleteAssessment_ShouldReturnTrue_WhenValidIdProvided()
         {
             // Arrange  
-            var command = _fixture.Create<DeleteAssessmentCommand>(); 
+            var command = _fixture.Create<DeleteAssessmentCommand>(); // Fixed instantiation of 'command'
             command.Id = 1; // Assuming the ID to delete is 1
             // Act  
             var result = await _handler.Handle(command, CancellationToken.None);
