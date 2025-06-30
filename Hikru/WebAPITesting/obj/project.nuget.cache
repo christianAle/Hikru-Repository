@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MG3JM2dgm6g=",
+  "dgSpecHash": "AKe9WpAey+k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
+  "projectFilePath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XPC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\XPC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

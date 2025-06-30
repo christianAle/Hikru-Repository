@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj": {}
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
         "projectName": "HikruCodeChallenge",
-        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
+        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
         "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\obj\\",
+        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj": {
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
+        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
         "projectName": "WebAPITesting",
-        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
+        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\WebAPITesting.csproj",
         "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\WebAPITesting\\obj\\",
+        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\WebAPITesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,8 +150,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
-                "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj"
+              "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
+                "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj"
               }
             }
           }

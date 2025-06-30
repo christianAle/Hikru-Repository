@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\Tests.csproj": {}
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
         "projectName": "HikruCodeChallenge",
-        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
+        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj",
         "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\obj\\",
+        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\Tests.csproj": {
+    "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\XPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,8 +150,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
-                "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru-Repository\\Hikru\\Hikru\\HikruCodeChallenge.csproj"
+              "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj": {
+                "projectPath": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\HikruCodeChallenge.csproj"
               }
             }
           }

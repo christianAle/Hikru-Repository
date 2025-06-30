@@ -109,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -176,6 +176,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Hikru\\Infrastructure\\services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\services\\AuthService.cs",
+              "RelativeToolTip": "Hikru\\Infrastructure\\services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:38:08.049Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
@@ -189,18 +201,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Hikru\\Infrastructure\\services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\services\\AuthService.cs",
-              "RelativeToolTip": "Hikru\\Infrastructure\\services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T18:38:08.049Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AssessmentsController.cs",
               "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AssessmentsController.cs",
@@ -209,8 +209,7 @@
               "RelativeToolTip": "Hikru\\Controllers\\AssessmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T16:06:58.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T16:06:58.22Z"
             },
             {
               "$type": "Document",
@@ -318,8 +317,7 @@
               "RelativeToolTip": "Hikru\\Infrastructure\\Repositories\\AssessmentRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T00:36:35.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T00:36:35.056Z"
             },
             {
               "$type": "Document",
@@ -331,8 +329,7 @@
               "RelativeToolTip": "Hikru\\application\\commands\\AssessmentCreateCommand.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T23:40:29.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T23:40:29.918Z"
             },
             {
               "$type": "Document",
