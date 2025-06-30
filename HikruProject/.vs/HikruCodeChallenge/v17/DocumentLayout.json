@@ -109,7 +109,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -121,8 +121,7 @@
               "RelativeToolTip": "Tests\\QueryTest\\GetAssessmentsQueryTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T22:09:27.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T22:09:27.864Z"
             },
             {
               "$type": "Document",
@@ -134,8 +133,7 @@
               "RelativeToolTip": "Tests\\CommandTest\\AssessmentCreateCommandTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T22:09:25.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T22:09:25.034Z"
             },
             {
               "$type": "Document",
@@ -159,8 +157,7 @@
               "RelativeToolTip": "WebAPITesting\\AssessmentControllerIntegrationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T04:13:07.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T04:13:07.981Z"
             },
             {
               "$type": "Document",
@@ -176,6 +173,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Hikru\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Hikru\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T02:59:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Infrastructure\\services\\AuthService.cs",
@@ -185,19 +195,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T18:38:08.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Hikru\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\XPC\\OneDrive\\Documentos\\Hikru\\Hikru\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Hikru\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T02:59:46.381Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -221,8 +218,7 @@
               "RelativeToolTip": "Hikru\\README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-06-29T00:29:06.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T00:29:06.079Z"
             },
             {
               "$type": "Document",
